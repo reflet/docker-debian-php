@@ -1,4 +1,4 @@
-# Debian8 - PHP7-fpm (日本環境） #
+# Debian - PHP7-fpm (日本環境） #
 
 オフィシャルのphp-fpmをベースにPHPコンテナを作成する。
 
