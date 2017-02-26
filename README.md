@@ -14,7 +14,6 @@
 ### イメージの作成方法 ###
 
 ```
-#!sh
 $ git clone https://github.com/reflet/docker-debian-php.git .
 $ docker build -t php .
 ```
@@ -22,6 +21,5 @@ $ docker build -t php .
 ### 使い方 ###
 
 ```
-#!sh
 $ docker run --rm -u "www-data" -it php bash
 ```
